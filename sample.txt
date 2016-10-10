@@ -2,3 +2,6 @@ The sample repo
 just in order to familiar with repo.
 
 updated to add sth.
+
+updated to add sth 2.
+
